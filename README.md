@@ -4,7 +4,7 @@ MYREADS is SPA about books list. Which easy to use, read, and search. It has tre
 *Want to Read
 *Read   `books`
 
-##Installation 
+## Installation 
 $git clone https://github.com/atab68/myreads.git
 
 ## Usage
